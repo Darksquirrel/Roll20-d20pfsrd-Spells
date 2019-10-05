@@ -1,0 +1,8 @@
+2
+https://www.d20pfsrd.com/magic/all-spells/a/animate-dead/
+https://www.d20pfsrd.com/magic/all-spells/h/heroic-fortune/
+https://www.d20pfsrd.com/magic/all-spells/r/restoration/
+https://www.d20pfsrd.com/magic/all-spells/m/martyr-s-bargain/
+https://www.d20pfsrd.com/magic/all-spells/b/bestow-grace/
+https://www.d20pfsrd.com/magic/all-spells/p/paladin-s-sacrifice/
+https://www.d20pfsrd.com/magic/all-spells/s/shared-sacrifice/

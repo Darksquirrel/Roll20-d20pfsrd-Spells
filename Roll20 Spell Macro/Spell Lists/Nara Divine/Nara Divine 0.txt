@@ -1,0 +1,9 @@
+0
+https://www.d20pfsrd.com/magic/all-spells/c/create-water/
+https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/
+https://www.d20pfsrd.com/magic/all-spells/g/guidance/
+https://www.d20pfsrd.com/magic/all-spells/m/mending/
+https://www.d20pfsrd.com/magic/all-spells/r/read-magic/
+https://www.d20pfsrd.com/magic/all-spells/s/spark/
+https://www.d20pfsrd.com/magic/all-spells/v/virtue/
+https://www.d20pfsrd.com/magic/all-spells/b/bleed/

@@ -1,0 +1,8 @@
+0
+https://www.d20pfsrd.com/magic/all-spells/c/create-water
+https://www.d20pfsrd.com/magic/all-spells/d/detect-poison
+https://www.d20pfsrd.com/magic/all-spells/e/enhanced-diplomacy
+https://www.d20pfsrd.com/magic/all-spells/m/mending
+https://www.d20pfsrd.com/magic/all-spells/p/purify-food-and-drink
+https://www.d20pfsrd.com/magic/all-spells/s/spark
+https://www.d20pfsrd.com/magic/all-spells/l/light

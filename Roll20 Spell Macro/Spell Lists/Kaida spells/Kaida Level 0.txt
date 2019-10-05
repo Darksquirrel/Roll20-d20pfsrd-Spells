@@ -1,0 +1,9 @@
+0
+https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights/
+https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/
+https://www.d20pfsrd.com/magic/all-spells/g/grasp/
+https://www.d20pfsrd.com/magic/all-spells/m/mage-hand/
+https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation/
+https://www.d20pfsrd.com/magic/all-spells/r/ray-of-frost/
+https://www.d20pfsrd.com/magic/all-spells/r/read-magic/
+https://www.d20pfsrd.com/magic/all-spells/c/create-water/
